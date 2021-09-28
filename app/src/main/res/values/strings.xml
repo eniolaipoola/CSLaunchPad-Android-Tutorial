@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Welcome Eniola</string>
+
+    <string name="login_text">Login</string>
+    <string name="submit_text">Submit</string>
+    <string name="try_text">Try again</string>
+    <string name="public_value">public</string>
+    <string name="in_progress">in progress</string>
+    <string name="days_number">2 days ago</string>
+    <string name="hospital_name">Lagos State General Hospital</string>
+
+</resources>
